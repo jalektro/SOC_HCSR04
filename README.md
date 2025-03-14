@@ -17,3 +17,15 @@ In the C-code we have used the helloworld.c template and changed it to just read
 
 
 
+## one sensor
+
+There is an example build for the use of one sensor.
+
+
+
+## 2 sensors
+
+There is also an example for the use of 2 sensors. 
+
+
+
